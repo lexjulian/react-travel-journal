@@ -2,7 +2,7 @@
 # Travel Journal
 ---
 
-- learn using props
+- learned how to use props
 - use props to manage data
 - revisited .map() and used with objects and link it up with props to use with large data
 
@@ -13,6 +13,7 @@
 #### https://react-tj-lj.netlify.app
 
 - ###### deployed with Netlify :fire:
+  :exclamation:
 - ###### still working on mobile responsiveness, will soon update css file to work with mobiles and overall device responsiveness
 
 ---
